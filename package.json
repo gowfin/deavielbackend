@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "nodemon app.js",
-    "build": "node app.js"
+    "start": "node app.js"
   },
   "author": "Ikpe EMmanuel",
   "license": "ISC",
